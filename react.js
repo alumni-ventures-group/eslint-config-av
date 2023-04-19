@@ -2,7 +2,7 @@ require("@rushstack/eslint-patch/modern-module-resolution");
 
 module.exports = {
   extends: "airbnb-base",
-  parser: "babel-eslint",
+  parser: "@babel/eslint-parser",
   plugins: ["react"],
   env: {
     browser: true,
