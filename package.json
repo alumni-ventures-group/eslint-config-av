@@ -8,9 +8,18 @@
   },
   "author": "",
   "license": "ISC",
-  "keywords": ["eslint", "eslintconfig"],
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
   "dependencies": {
-    "eslint-config-airbnb": "^19"
+    "@babel/core": "^7.21.4",
+    "@babel/eslint-parser": "^7.21.3",
+    "@rushstack/eslint-patch": "^1.2.0",
+    "eslint-config-airbnb": "^19",
+    "eslint-plugin-import": "^2",
+    "eslint-plugin-jsx-a11y": "^6",
+    "eslint-plugin-react": "^7"
   },
   "peerDependencies": {
     "eslint": "^8"
