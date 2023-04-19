@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/alumni-ventures-group/eslint-config-av/compare/v0.1.3...v0.1.4) (2023-04-19)
+
+
+### Bug Fixes
+
+* **react:** Fix react and jsx linting ([2c103da](https://github.com/alumni-ventures-group/eslint-config-av/commit/2c103da9582f47fdb691bd2a29684d67a459de13))
+
 ## [0.1.3](https://github.com/alumni-ventures-group/eslint-config-av/compare/v0.1.2...v0.1.3) (2023-04-19)
 
 
