@@ -24,7 +24,7 @@ module.exports = {
     // enforce max line length of 140, ignore RegExp literals, and URLs
     "max-len": ["error", { code: 140, ignoreRegExpLiterals: true, tabWidth: 2, ignoreUrls: true }],
     "linebreak-style": "off", // allow any line endings \n \r\n
-    "arrow-parens": ["error", "always"], // allow no parens around arguments in arrow functions
+    "arrow-parens": ["error", "always"], // require parens around arguments in arrow functions
     curly: ["error", "all"], // require curly braces around if/else statements
     "no-console": ["error", { allow: ["error"] }], // allow console.error only
     "no-with": "error", // disallow with statement
