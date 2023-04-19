@@ -1,9 +1,13 @@
 require("@rushstack/eslint-patch/modern-module-resolution");
 
 module.exports = {
-  extends: "airbnb-base",
+  extends: [
+    "airbnb",
+    "plugin:react/recommended",
+    "plugin:jsx-a11y/recommended",
+  ],
   parser: "@babel/eslint-parser",
-  plugins: ["react"],
+  plugins: ["jsx-a11y"],
   env: {
     browser: true,
     node: true,
