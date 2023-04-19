@@ -1,0 +1,4 @@
+@alumni-ventures-group:registry=https://npm.pkg.github.com
+# Retrieve an access token from your github account: https://stackoverflow.com/a/63243950
+//npm.pkg.github.com/:_authToken={{}}
+registry=https://registry.npmjs.org
