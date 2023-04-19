@@ -1,3 +1,10 @@
+## [0.1.3](https://github.com/alumni-ventures-group/eslint-config-av/compare/v0.1.2...v0.1.3) (2023-04-19)
+
+
+### Bug Fixes
+
+* **babel:** point to correct babel parser ([b2757d7](https://github.com/alumni-ventures-group/eslint-config-av/commit/b2757d718a7c27afa78f9fb37d8a70424f5d76d4))
+
 ## [0.1.2](https://github.com/alumni-ventures-group/eslint-config-av/compare/v0.1.1...v0.1.2) (2023-04-19)
 
 

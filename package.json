@@ -1,6 +1,6 @@
 {
   "name": "@alumni-ventures-group/eslint-config-av",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Shared eslintrc files for AV projects",
   "main": "index.js",
   "scripts": {
