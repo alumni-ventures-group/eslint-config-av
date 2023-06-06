@@ -1,3 +1,11 @@
+# [0.2.0](https://github.com/alumni-ventures-group/eslint-config-av/compare/v0.1.4...v0.2.0) (2023-06-06)
+
+
+### Features
+
+* **Next:** Add shared next.js eslintrc config ([658178c](https://github.com/alumni-ventures-group/eslint-config-av/commit/658178c21d820ecf095c35aab49ad63071b6f399))
+* **serverless-api:** Add shared eslintrc config for our serverless apis ([ab16f28](https://github.com/alumni-ventures-group/eslint-config-av/commit/ab16f28beeb98dc89512aed7f7bfa1eecd81caf5))
+
 ## [0.1.4](https://github.com/alumni-ventures-group/eslint-config-av/compare/v0.1.3...v0.1.4) (2023-04-19)
 
 
